@@ -1,6 +1,8 @@
 # 3D-Interactive-Graphics
 Programming graphics using JavaScript using three.js library/API.
+
 Course link: https://www.udacity.com/course/interactive-3d-graphics--cs291
+
 Course exercises from Udacity Course about basic principles of 3D computer graphics: meshes, transforms, cameras, materials, lighting, and animation.
 
 
